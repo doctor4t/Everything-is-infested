@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "everythingisinfested",
+  "version": "${version}",
+
+  "name": "Everything is infested!",
+  "description": "Enjoy pure p̸̠̦̐a̷͎̖̩̦̦̞̘͎͕̤̟̙͂̍̈̋͐̿̅̊͝ͅi̴̝̥̯͔͋̋͗̾̆̎̽͋͋͘ņ̶̨̢̛̞̫̫̙̺͔͍͇̟̈͋͗̈́̅̀̋͋̚͘̕͜",
+  "authors": [
+    "doctor4t"
+  ],
+
+  "license": "MIT",
+
+  "environment": "*",
+  "mixins": [
+    "mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}
